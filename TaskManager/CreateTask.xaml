@@ -1,0 +1,13 @@
+﻿<Window x:Class="TaskManager.CreateTask"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaskManager"
+        mc:Ignorable="d"
+        Title="CreateTask" Height="450" Width="500">
+    <Grid>
+        <TextBox TextWrapping="Wrap" Text="TextBox" Width="120" Height="15"/>
+
+    </Grid>
+</Window>
